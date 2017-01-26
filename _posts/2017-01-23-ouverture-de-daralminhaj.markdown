@@ -1,75 +1,94 @@
 ---
 layout: post
-title:  "Ouverture de Dar Al-Minhaj"
+title:  "افتتاح دار المنهاج"
 date:   2017-01-23 11:11:11 +0300
 ---
 {:.rtl}
 # بسم الله الرحمن الرحيم
 
 <figure>
-	<img style="width: 33%; float: left" src="{{ site.baseurl }}/assets/dar-al-minhaj-couloir1.jpg" alt="image">
-	<img style="width: 33%; float: left" src="{{ site.baseurl }}/assets/dar-al-minhaj-entree.jpg" alt="image">
-  <img style="width: 33%" src="{{ site.baseurl }}/assets/dar-al-minhaj-salle-1.jpg" alt="image">
+	<img style="width: 33%; float: left" src="{{ site.baseurl }}/assets/dar-al-minhaj-couloir1.jpg" alt="صورة">
+	<img style="width: 33%; float: left" src="{{ site.baseurl }}/assets/dar-al-minhaj-entree.jpg" alt="صورة">
+  <img style="width: 33%" src="{{ site.baseurl }}/assets/dar-al-minhaj-salle-1.jpg" alt="صورة">
 	<figcaption>
-		Ouverture de Dar Al-Minhaj à Hay al'achir au Caire.
+افتتاح دار المنهاج بحي العاشر في القاهرة
 	</figcaption>
 </figure>
 
 {:.rtl}
-## السلام عليكم ورحمة الله وبركاته
+## بسم الله و الصلاة و السلام و رسول الله صلى الله عليه و سلم
 
-## Introduction
-Nous vous annonçons l'ouverture de **Dar Al-Minhaj** à *Hay al'achir* en Egypte, qui vous propose la **mémorisation du Quran, l'apprentissage de la langue arabe et du minhaj pour petits et grands**. Les cours se déroulent de 8h à 15h pour les 3 à 18 ans et de 16h à 21h pour les adultes.
+## المقدمة
 
-Les Maychaykh dont nous prenons exemple et conseil pour notre programme d'apprentissage sont: **Cheikh Muhammad Said Raslan, Cheikh Abou 'Abdila3la Khalid Outhmane et Cheikh 'Ali 'Abdul'Aziiz Moussa** hafizhahumullah.
+يسرنا أن نبشر لكم بافتتاح **دار المنهج** *بحي العاشر* لتحفيظ القرآن وتعليم اللغة العربية والمنهج السلفي للصغار والكبار.
 
-## Objectifs
+الخلفيه العلميه لهذه الدار **الشيخ رسلان ومعه مشايخ السلفية الآتي أسمائهم الشيخ خالد عثمان أبوعبد الأعلي والشيخ علي عبد العزيز موسى**
 
-Après s'être entretenu avec plusieurs parents dont les enfants étudient dans des marakiz, il nous est apparu qu'ils se plaignent de plusieurs choses :
 
-- Manque d'application du programme annoncé.
-- Professeurs non qualifiés.
-- Classes nombreuses et sales, saleté qui nuit à la santé de l'enfant.
+## أهداف
 
-Cela nous a poussé à rectifier ces points, en rédigeant un programme approprié en s'aidant de professeurs compétents. Nous organisons des classes réduites en nombre dans la mesure du possible tout en donnant son importance à la propreté et l'organisation qui sont nécessaires aux étudiants.
 
-**Notre but est de former des futurs étudiants en sciences ayant des bases solides ouvrant ainsi le chemin des pieux prédécesseurs aussi bien dans la compréhension, la science et les adorations.**
+وبعد، فإنا كلمنا عِدَّة من الآباء الذين لهم أبناءٌ يتعلمون في هذه المراكز، فتبيَّن لنا أنهم يشكون من:
 
-## Le Programme
+- قُصور بيّن في تطبيق هذه المراكز برامجَها.
 
-### Premier groupe : de 3 à 5 ans
+- ويشكون أن أكثر المعلّمين غير أهلٍ لتعليم أبنائهم.
 
-* De 8h à 10h : écoute et apprentissage du juz Amma et Tabarak.
-* 10h à 11h30 : étude du livre "Nouraniya" et "Nour al Bayan"
-* 1h30 à Dhor : repos
-* 1h à 2h30 : révisions de l'apprentissage récent et ancien.
+- وأن الفصول مزدحمةٌ بالأبناء، فلا يستطيع المعلم العناية بكلٍّ منهم العناية التي تنبغي.
 
-### Deuxième groupe : de 6 ans à ...
+- وأن الفصول تكون وسخةً، لا يُعتنى بنظافتها، وذلك يضرُّ بصحَّات أبنائهم.
 
-* 8h à 10h30 : apprentissage
-* 1h30 à 11h30 : révisions
-* 1h30 à Dhor : repos
-* Dhor à 2h30 : révisions sur ce qui précède.
 
-**A noter:**
+فلمَّا رأينا ذلك دعانا إلى أن نجهد في تغييره، فكان من هدفنا أن نضع برنامجًا ثم نطبِّقه، لا أن يكون حبرًا على ورق- وأن نستعين بمعلّمين جديرين بالتعليم.- وأن نقلِّل -ما استطعنا- عدد الطلاب في كل فصل.- وأن نعنى بتنظيف الفصول، وتنظيمها رعاية للطلاب.
 
-- Chaque enfant étudie 1 heure de langue arabe.
-- Chaque enfant a un examen sur le juz qu'il apprend.
-- Chaque enfant (deuxième groupe) écrit chez lui ce qu'il va apprendre le lendemain au markaz.
+**وإنما الغاية من هذا كله أن نُخرج جيلا من طلاب العلم، يرتضعون العلم ارتضاعًا، لا يجدون فيه عنَتًا ولا مشقَّة، فإذا أدركوا كانوا على طريقة السلف الصالح في فهمهم، وتعلمهم، وعبادتهم**
 
-## Inscriptions:
+## وهاكم برنامجنا:
 
-* À partir du 1/2/2017
-* Le nombre d'étudiants est restreint à 30 pour le premier groupe 40 pour le deuxième
+### القسم الأول : من ٣ سنوات إلى ٥
 
-Pour s'inscrire téléphoner à :
-* Cherif abu Omar (arabe) : <a href="tel:{{ site.phone }}" target="_blank">{{ site.phone }}</a>
-* Abu Al-Laith (français - arabe) : <a href="tel:{{ site.phone2 }}" target="_blank">{{ site.phone2 }}</a>
+٨ ص إلى ١٠ ص : تلقين جزء عم و تبارك
 
-## L'adresse de Dar Al-Minhaj :
+١٠ص إلى ١١.٣٠: دراسة كتاب "النورانية " و "نور البيان"
+
+١١.٣٠ص إلى الظهر : راحة
+
+١ ص إلى ٢.٣٠ ص : مراجعة الحفظ القريب و البعيد
+
+
+### القسم الثاني : من ٦ سنوات إلى ....
+
+- ٨ ص إلى ١٠.٣٠ ص : حفظ
+
+- ١٠.٣٠ ص إلى ١١.٣٠ ص : مراجعة حفظ القريب
+
+- ١١.٣٠ ص إلى الظهر : راحة
+
+- الظهر إلى ٢.٣٠ : مراجعة حفظ البعيد
+
+### ملاحظات
+
+- "و لكل ولد ساعة للغة العرية"
+
+- كل ولد يمتحن لكل جزء يحفظه
+
+- كل ولد يكتب في البيت ما سيحفظه في المركز (القسم الثاني)
+
+## تسجيلات
+
+تفتح الدار ١ / ٠٢ / ٢٠١٧
+
+رجاء باتصال للتسجيل لأن عدد الطلاب معدود (٣٠ عند القسم الأول ، ٤٠ عند القسم الثاني)
+
+- شريف أبو عمر (العربية) : <a href="tel:{{ site.phone }}" target="_blank">{{ site.phone }}</a>
+
+- أبو الليث (العربية و الفرنسية ) : <a href="tel:{{ site.phone2 }}" target="_blank">{{ site.phone2 }}</a>
+
+
+## عنوان الدار:
 
 {:.rtl}
 [بلوك 17 شارع عصام بحر عمارة 7، حي العاشر، مدينة نصر، خلف الخزان سوق السيارات](https://goo.gl/maps/CfQDD2cW2ho)
 
-La carte google map :
+الخريطة غوغل :
 [https://goo.gl/maps/CfQDD2cW2ho](https://goo.gl/maps/CfQDD2cW2ho)
