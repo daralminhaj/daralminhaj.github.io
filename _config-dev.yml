@@ -1,0 +1,43 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Dar Al-Minhaj
+logo: "/assets/logo-1.0-lq.png"
+email: daralminhaj2017@gmail.com
+phone: 00201019797607
+phone2: 00201017928070
+phone3: 00201141679174
+description: Markaz de mémorisation du Quran, d'apprentissage de la langue arabe et du minhaj au Caire pour petits et grands.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "daralminhaj.github.io" # the base hostname & protocol for your site
+lang: fr
+locale: fr_FR
+lang_links:
+  ar:
+    url: "/ar"
+    text: "اضغط هنا للموقع باللغة العربية"
+  fr:
+    url: "/"
+    text: "Pour lire en français cliquez ici"
+  en:
+    url: "/en"
+    text: "To read in English click here"
+date_format: "%-d %B %Y"
+github_username:
+instagram_username:
+twitter_username:
+
+# Build settings
+markdown: kramdown
