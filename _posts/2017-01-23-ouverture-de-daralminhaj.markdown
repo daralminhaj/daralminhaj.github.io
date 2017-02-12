@@ -20,12 +20,12 @@ date:   2017-01-23 11:11:11 +0300
 
 ## Après s'être entretenu avec plusieurs parents dont les enfants étudient dans des marakiz, il nous est apparu qu'ils se plaignent de plusieurs choses :
 
-- Un manque d'application du programme annoncé.
-- Des professeurs non qualifiés.
-- Des classes sont surpeuplées et le professeur n'a pas le temps
-- Des classes sales, saleté qui nuit à la santé de l'enfant.
+- Manque d'application du programme annoncé.
+- Professeurs non qualifiés.
+- Classes nombreuses, difficiles à gérer pour le professeur qui a du mal a remplir la responsabilité qui lui incombe.
+- Classes souvent sales, saleté qui nuit a la santé de l’enfant.
 
-Cela nous a poussé à rectifier ces points, en rédigeant un programme approprié et en le mettant en pratique. Ceci en s'aidant de professeurs compétents et en organisant des classes réduites en nombre dans la mesure du possible tout en donnant son importance à la propreté et l'organisation qui sont nécessaires aux étudiants.
+Cela nous a poussé à rectifier ces points, en rédigeant un programme adapté - pas une simple feuille faisant plaisir aux parents - ceci en s’aidant de professeurs compétents, des classes réduites en nombre (dans al mesure du possible) tout en donnant l’importance qu’il se doit à la propreté et l’organisation nécessaire a chacun de nos enfants.
 
 **Notre but est de former des futurs étudiants en sciences ayant des bases solides ouvrant ainsi le chemin des pieux prédécesseurs aussi bien dans la compréhension, la science et les adorations.**
 
@@ -35,33 +35,33 @@ Cela nous a poussé à rectifier ces points, en rédigeant un programme appropri
 
 ### Premier groupe : de 3 à 5 ans
 
-* 1ère période : Dictée du Quran et tajwid (Mémorisation et révision de l'ancien)
-* 2nde période : Apprentissage de la lecture et de l'écriture
-* 3ème période : Apprentissage de règles islamiques
+* 1ère partie : Initiation au Quran et tajwid (apprentissage et révisions anciennes et nouvelles).
+* 2nde partie : Apprentissage de la lecture et de l'écriture
+* 3ème partie : Apprentissage de règles islamiques
 
 ### Deuxième groupe : de 6 ans à 15 ans
 
-* 1ère période : Mémorisation du Quran
-* 2nde période : Révision des pages nouvellement apprises
-* 3ème période : Révision de l'ancien
-* 4ème période : Une heure de langue arabe en 10 niveaux
+* 1ère partie : Mémorisation du Quran
+* 2nde partie : Révision du Quran (pages nouvellement apprises)
+* 3ème partie : Révision du Quran (l'ancienne mémorisation)
+* 4ème partie : Chaque enfant étudie 1 heure de langue arabe (programme comportant 10 niveaux avec examens compris).
 
 ### Troisième groupe : 16 ans et plus
 
-* 1ère période : Mémorisation du Quran
-* 2nde période : Révision des pages nouvellement apprises
-* 3ème période : Révision de l'ancien
+* 1ère partie : Mémorisation du Quran
+* 2nde partie : Révision du Quran (pages nouvellement apprises)
+* 3ème partie : Révision du Quran (l'ancienne mémorisation)
 
 ### Remarques
 
 - Chaque enfant a un examen sur le juz qu'il apprend.
 - Chaque enfant (du deuxième et troisième groupe) écrit chez lui le Quran qu'il va mémoriser le lendemain au markaz.
-- Les niveaux de langue arabe sont uniquement pour le deuxième groupe.
+- Les niveaux  de langue arabe sont uniquement pour le deuxième groupe.
 
 ## Inscriptions:
 
-* À partir du 4/2/2017
-* Le nombre d'étudiants est restreint à 30 pour le premier groupe 40 pour le deuxième
+* À partir du 4/2/2017.
+* Le nombre d'étudiants est restreint à 30 pour le premier groupe, 40 pour le deuxième et 20 pour le troisième.
 
 ### Pour s'inscrire téléphoner à :
 
@@ -70,6 +70,9 @@ Cela nous a poussé à rectifier ces points, en rédigeant un programme appropri
 * Abu Abdilhayy (français) : <a href="tel:{{ site.phone3 }}" target="_blank">{{ site.phone3 }}</a>
 
 ## L'adresse de Dar Al-Minhaj :
+
+[Bloc 17 bat 7 rue Issam Bahr<br/>
+Quartier 9 derrière al-khazan souq sayarat.](https://goo.gl/maps/JLaLUWU4M6u)
 
 {:.rtl}
 [بلوك 17 عمارة 7 شارع عصام بحر
